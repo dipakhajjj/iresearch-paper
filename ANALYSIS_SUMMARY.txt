@@ -1,0 +1,101 @@
+================================================================================
+BIBLIOMETRIC ANALYSIS: SUSTAINABLE SUPPLY CHAIN MANAGEMENT
+================================================================================
+
+Generated: 2026-06-01 10:13:13
+
+EXECUTIVE SUMMARY
+--------------------------------------------------------------------------------
+
+Dataset Scope:
+  • Total Publications: 4,441
+  • Year Range: 2021 - 2026
+  • Unique Sources: 1414
+  • Unique Authors: 4269
+
+Publication Metrics:
+  • Average Citations: 15.40
+  • Highly Cited (>10): 1469
+  • Open Access: 48.7%
+
+Top Research Theme: Green Innovation & Technology
+Leading Journal: Sustainability (Switzerland)
+Most Common Keyword: green supply chain management
+Leading Country: China
+
+RESEARCH THEMES
+--------------------------------------------------------------------------------
+
+ 1. Green Innovation & Technology: 3732 (84.0%)
+ 2. Environmental Performance: 1630 (36.7%)
+ 3. Logistics & Distribution: 1375 (31.0%)
+ 4. Circular Economy: 360 (8.1%)
+ 5. Procurement & Sourcing: 297 (6.7%)
+ 6. Digital Transformation: 225 (5.1%)
+ 7. Supply Chain Resilience: 199 (4.5%)
+ 8. Stakeholder Engagement: 182 (4.1%)
+
+
+TOP 20 KEYWORDS
+--------------------------------------------------------------------------------
+
+ 1. green supply chain management: 593
+ 2. sustainability: 572
+ 3. sustainable supply chain management: 510
+ 4. green logistics: 422
+ 5. supply chain management: 270
+ 6. sustainable logistics: 218
+ 7. green supply chain: 188
+ 8. supply chain: 188
+ 9. circular economy: 165
+10. sustainable supply chain: 160
+11. sustainable development: 144
+12. logistics: 122
+13. environmental performance: 119
+14. gscm: 109
+15. industry 4.0: 91
+16. blockchain: 90
+17. artificial intelligence: 84
+18. environmental sustainability: 79
+19. green innovation: 77
+20. reverse logistics: 70
+
+
+TOP 15 SOURCES
+--------------------------------------------------------------------------------
+
+ 1. Sustainability (Switzerland): 328
+ 2. Journal of Cleaner Production: 102
+ 3. Cleaner Logistics and Supply Chain: 60
+ 4. Business Strategy and the Environment: 56
+ 5. Environmental Science and Pollution Research: 51
+ 6. Logistics: 48
+ 7. Uncertain Supply Chain Management: 47
+ 8. Lecture Notes in Networks and Systems: 43
+ 9. International Journal of Production Economics: 41
+10. International Journal of Logistics Research and Applications: 38
+11. Transportation Research Part E: Logistics and Transportation Review: 34
+12. Lecture Notes in Mechanical Engineering: 33
+13. Benchmarking: 33
+14. Sustainability (Switzerland) : 33
+15. Computers and Industrial Engineering: 32
+
+
+TOP 15 COUNTRIES/REGIONS
+--------------------------------------------------------------------------------
+
+ 1. China: 1788
+ 2. India: 1341
+ 3. United Kingdom: 466
+ 4. Indonesia: 463
+ 5. United States: 386
+ 6. Malaysia: 306
+ 7. Turkey: 300
+ 8. Italy: 295
+ 9. Pakistan: 279
+10. Iran: 262
+11. Germany: 233
+12. Brazil: 220
+13. Taiwan: 213
+14. Viet Nam: 200
+15. Saudi Arabia: 196

@@ -1,0 +1,281 @@
+{
+  "title": "Bibliometric Analysis Report: Sustainable Supply Chain Management",
+  "generated": "2026-06-01T10:13:13.993635",
+  "dataset_statistics": {
+    "total_publications": 4441,
+    "year_range": "2021-2026",
+    "unique_journals": 1414,
+    "unique_authors": 4269,
+    "average_citations": 15.4,
+    "max_citations": 464,
+    "open_access_percentage": 48.7
+  },
+  "top_themes": [
+    {
+      "Theme": "Green Innovation & Technology",
+      "Count": 3732,
+      "Percentage": "84.0%"
+    },
+    {
+      "Theme": "Environmental Performance",
+      "Count": 1630,
+      "Percentage": "36.7%"
+    },
+    {
+      "Theme": "Logistics & Distribution",
+      "Count": 1375,
+      "Percentage": "31.0%"
+    },
+    {
+      "Theme": "Circular Economy",
+      "Count": 360,
+      "Percentage": "8.1%"
+    },
+    {
+      "Theme": "Procurement & Sourcing",
+      "Count": 297,
+      "Percentage": "6.7%"
+    },
+    {
+      "Theme": "Digital Transformation",
+      "Count": 225,
+      "Percentage": "5.1%"
+    },
+    {
+      "Theme": "Supply Chain Resilience",
+      "Count": 199,
+      "Percentage": "4.5%"
+    },
+    {
+      "Theme": "Stakeholder Engagement",
+      "Count": 182,
+      "Percentage": "4.1%"
+    }
+  ],
+  "top_sources": [
+    {
+      "Journal": "Sustainability (Switzerland)",
+      "Publications": 328
+    },
+    {
+      "Journal": "Journal of Cleaner Production",
+      "Publications": 102
+    },
+    {
+      "Journal": "Cleaner Logistics and Supply Chain",
+      "Publications": 60
+    },
+    {
+      "Journal": "Business Strategy and the Environment",
+      "Publications": 56
+    },
+    {
+      "Journal": "Environmental Science and Pollution Research",
+      "Publications": 51
+    },
+    {
+      "Journal": "Logistics",
+      "Publications": 48
+    },
+    {
+      "Journal": "Uncertain Supply Chain Management",
+      "Publications": 47
+    },
+    {
+      "Journal": "Lecture Notes in Networks and Systems",
+      "Publications": 43
+    },
+    {
+      "Journal": "International Journal of Production Economics",
+      "Publications": 41
+    },
+    {
+      "Journal": "International Journal of Logistics Research and Applications",
+      "Publications": 38
+    },
+    {
+      "Journal": "Transportation Research Part E: Logistics and Transportation Review",
+      "Publications": 34
+    },
+    {
+      "Journal": "Lecture Notes in Mechanical Engineering",
+      "Publications": 33
+    },
+    {
+      "Journal": "Benchmarking",
+      "Publications": 33
+    },
+    {
+      "Journal": "Sustainability (Switzerland) ",
+      "Publications": 33
+    },
+    {
+      "Journal": "Computers and Industrial Engineering",
+      "Publications": 32
+    }
+  ],
+  "top_keywords": [
+    {
+      "Keyword": "green supply chain management",
+      "Frequency": 593
+    },
+    {
+      "Keyword": "sustainability",
+      "Frequency": 572
+    },
+    {
+      "Keyword": "sustainable supply chain management",
+      "Frequency": 510
+    },
+    {
+      "Keyword": "green logistics",
+      "Frequency": 422
+    },
+    {
+      "Keyword": "supply chain management",
+      "Frequency": 270
+    },
+    {
+      "Keyword": "sustainable logistics",
+      "Frequency": 218
+    },
+    {
+      "Keyword": "green supply chain",
+      "Frequency": 188
+    },
+    {
+      "Keyword": "supply chain",
+      "Frequency": 188
+    },
+    {
+      "Keyword": "circular economy",
+      "Frequency": 165
+    },
+    {
+      "Keyword": "sustainable supply chain",
+      "Frequency": 160
+    },
+    {
+      "Keyword": "sustainable development",
+      "Frequency": 144
+    },
+    {
+      "Keyword": "logistics",
+      "Frequency": 122
+    },
+    {
+      "Keyword": "environmental performance",
+      "Frequency": 119
+    },
+    {
+      "Keyword": "gscm",
+      "Frequency": 109
+    },
+    {
+      "Keyword": "industry 4.0",
+      "Frequency": 91
+    },
+    {
+      "Keyword": "blockchain",
+      "Frequency": 90
+    },
+    {
+      "Keyword": "artificial intelligence",
+      "Frequency": 84
+    },
+    {
+      "Keyword": "environmental sustainability",
+      "Frequency": 79
+    },
+    {
+      "Keyword": "green innovation",
+      "Frequency": 77
+    },
+    {
+      "Keyword": "reverse logistics",
+      "Frequency": 70
+    },
+    {
+      "Keyword": "systematic literature review",
+      "Frequency": 68
+    },
+    {
+      "Keyword": "sustainable supply chain management (sscm)",
+      "Frequency": 66
+    },
+    {
+      "Keyword": "sustainable performance",
+      "Frequency": 64
+    },
+    {
+      "Keyword": "literature review",
+      "Frequency": 63
+    },
+    {
+      "Keyword": "green supply chain management (gscm)",
+      "Frequency": 62
+    }
+  ],
+  "top_countries": [
+    {
+      "Country/Region": "China",
+      "Affiliations": 1788
+    },
+    {
+      "Country/Region": "India",
+      "Affiliations": 1341
+    },
+    {
+      "Country/Region": "United Kingdom",
+      "Affiliations": 466
+    },
+    {
+      "Country/Region": "Indonesia",
+      "Affiliations": 463
+    },
+    {
+      "Country/Region": "United States",
+      "Affiliations": 386
+    },
+    {
+      "Country/Region": "Malaysia",
+      "Affiliations": 306
+    },
+    {
+      "Country/Region": "Turkey",
+      "Affiliations": 300
+    },
+    {
+      "Country/Region": "Italy",
+      "Affiliations": 295
+    },
+    {
+      "Country/Region": "Pakistan",
+      "Affiliations": 279
+    },
+    {
+      "Country/Region": "Iran",
+      "Affiliations": 262
+    },
+    {
+      "Country/Region": "Germany",
+      "Affiliations": 233
+    },
+    {
+      "Country/Region": "Brazil",
+      "Affiliations": 220
+    },
+    {
+      "Country/Region": "Taiwan",
+      "Affiliations": 213
+    },
+    {
+      "Country/Region": "Viet Nam",
+      "Affiliations": 200
+    },
+    {
+      "Country/Region": "Saudi Arabia",
+      "Affiliations": 196
+    }
+  ]
+}
